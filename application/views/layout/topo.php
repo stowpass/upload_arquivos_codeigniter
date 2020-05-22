@@ -339,22 +339,23 @@
             </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li class="active">
-                            <a href="<?php echo base_url ('categoria'); ?>">
+                     <!--   <li class="active">
+                            <a href="<?php //echo base_url ('categoria'); ?>">
                             <i class="fa fa-circle-o"></i>Categorias</a>
                          </li>
                         <li>
-                            <a href="<?php echo base_url ('cardapio'); ?>">
+                            <a href="<?php //echo base_url ('cardapio'); ?>">
                             <i class="fa fa-circle-o"></i>Cardapios</a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url ('mesa'); ?>">
+                            <a href="<?php // echo base_url ('mesa'); ?>">
                             <i class="fa fa-circle-o"></i>Mesas</a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url ('garcon'); ?>">
+                            <a href="<?php //echo base_url ('garcon'); ?>">
                             <i class="fa fa-circle-o"></i>Garçons</a>
                         </li>
+                        -->
                         <li>
                             <a href="<?php echo base_url ('arquivo'); ?>">
                             <i class="fa fa-circle-o"></i>Arquivo</a>
